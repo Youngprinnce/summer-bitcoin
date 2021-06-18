@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "youngprinnce",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^4.16.0",
-    "node-csv": "^0.1.2"
+    "async": "^3.2.0"
   }
 }
